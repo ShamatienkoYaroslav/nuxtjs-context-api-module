@@ -2,6 +2,9 @@
 
 > API-module in Nuxt.js context
 
+## Info
+[Read the story on Medium](https://medium.com/@shamatienko.yaroslav/api-calls-from-nuxt-js-context-b3e1a796ca50)
+
 ## Build Setup
 
 ``` bash
